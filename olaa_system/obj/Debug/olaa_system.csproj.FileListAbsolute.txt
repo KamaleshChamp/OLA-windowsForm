@@ -1,0 +1,14 @@
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.csproj.AssemblyReference.cache
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.Carreg.resources
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.Form1.resources
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.Main.resources
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.Properties.Resources.resources
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.csproj.GenerateResource.cache
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\bin\Debug\olaa_system.exe.config
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\bin\Debug\olaa_system.exe
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\bin\Debug\olaa_system.pdb
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.exe
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.pdb
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.customer.resources
+C:\Users\kamalesh\source\repos\olaa_system\olaa_system\obj\Debug\olaa_system.RentalBooking.resources
